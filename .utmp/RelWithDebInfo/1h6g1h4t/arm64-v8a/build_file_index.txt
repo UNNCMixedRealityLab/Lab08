@@ -1,0 +1,2 @@
+D:\Unity\Projects\Lab08Test\Lab08Test\Unity-QuestVuforia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity\Projects\Lab08Test\Lab08Test\Unity-QuestVuforia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
